@@ -29,7 +29,7 @@ function somar(a, b) {
 /**
  * Subtrai o segundo número do primeiro.
  *
- * @param {number} a - O número do qual subtrair.
+ * @param {number} a - O número do qual subtrair. 
  * @param {number} b - O número a ser subtraído.
  * @return {number} O resultado da subtração.
  *
